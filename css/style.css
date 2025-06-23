@@ -1,0 +1,31 @@
+/* CSS3 Homework week 1*/
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 90%
+    % ;
+}
+
+header {background-color: mistyrose;
+}
+
+nav {background-color: pink;
+    text-align: center;
+}
+
+main {background-color: cornsilk;
+    font-size: 105%;
+}
+
+footer {background-color: pink;}
+
+li {display: inline ;
+    width: fit-content;
+}
+
+h1 {text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: saddlebrown;
+}
+
+p {line-height: 1.5;}
